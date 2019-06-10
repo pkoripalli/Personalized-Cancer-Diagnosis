@@ -62,14 +62,14 @@ Univariate Analysis on Text Feature
 
 ### Machine Learning Models
 
-Naive Bayes
-K Nearest Neighbour Classification
-Logistic Regression with Class balancing
-Logistic Regression without Class balancing
-Linear Support Vector Machines
-Random Forest Classifier
-Logistic regression with CountVectorizer Features, including both unigrams and bigrams
-Performed Feature Engineering to improve the performance
+  1. Naive Bayes
+  2. K Nearest Neighbour Classification
+  3. Logistic Regression with Class balancing
+  4. Logistic Regression without Class balancing
+  5. Linear Support Vector Machines
+  6. Random Forest Classifier
+  7. Logistic regression with CountVectorizer Features, including both unigrams and bigrams
+  8. Performed Feature Engineering to improve the performance
 
 ### Conclusion
 
