@@ -31,10 +31,10 @@ Objective: Predict the probability of each data-point belonging to each of the n
 
 Constraints:
 
-  Interpretability
-  Class probabilities are needed.
-  Penalize the errors in class probabilites => Metric is Log-loss.
-  No Latency constraints.
+  1. Interpretability
+  2. Class probabilities are needed.
+  3. Penalize the errors in class probabilites => Metric is Log-loss.
+  4. No Latency constraints.
   
 ### Train, CV and Test Datasets
 
@@ -56,9 +56,9 @@ In a 'Random' Model, we generate the NINE class probabilites randomly such that 
 
 ### Univariate Analysis
 
-Univariate Analysis on Gene Feature
-Univariate Analysis on Variation Feature
-Univariate Analysis on Text Feature
+  1. Univariate Analysis on Gene Feature
+  2. Univariate Analysis on Variation Feature
+  3. Univariate Analysis on Text Feature
 
 ### Machine Learning Models
 
