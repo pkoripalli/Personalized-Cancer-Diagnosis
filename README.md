@@ -73,4 +73,4 @@ Univariate Analysis on Text Feature
 
 ### Conclusion
 
-After some feature engineering we manage to decrease the log loss below < 1.
+After some feature engineering I managed to decrease the log loss below 1.
